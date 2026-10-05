@@ -1,8 +1,7 @@
 # AI Class Assignment 1
 
-Name: YOUR NAME
-Registration number: YOUR REGISTRATION NUMBER
-
+Name: SAMUEL MWANGI NYAGA
+Registration number: 1551
 ## Purpose
 
 This project demonstrates Python lists, NumPy arrays, and dictionaries
